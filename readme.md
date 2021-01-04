@@ -1,8 +1,6 @@
-install pyenv  
-`https://github.com/pyenv/pyenv`
+install (pyenv)[https://github.com/pyenv/pyenvr]
 
-install pyenv-virtualenv  
-`https://github.com/pyenv/pyenv-virtualenv`
+install (pyenv-virtualenv)[https://github.com/pyenv/pyenv-virtualenv]
 
 install python 3.8.6  
 `pyenv install 3.8.6`
