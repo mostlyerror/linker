@@ -1,23 +1,23 @@
-# install pyenv
+install pyenv  
 `https://github.com/pyenv/pyenv`
 
-# install pyenv-virtualenv
+install pyenv-virtualenv  
 `https://github.com/pyenv/pyenv-virtualenv`
 
-# install python 3.8.6
+install python 3.8.6  
 `pyenv install 3.8.6`
 
-# create virtualenv
+create virtualenv  
 `pyenv virtualenv 3.8.6 virtual_env_name`
 
-# activate virtualenv
+activate virtualenv  
 `pyenv shell virtual_env_name`
 
-# upgrade pip
+upgrade pip  
 `python -m pip install --upgrade pip`
 
-# install numpy before dedupe
+install numpy before dedupe  
 `pip install numpy`
 
-# install remaining dependencies
+install remaining dependencies  
 `pip install -r requirements.txt`
